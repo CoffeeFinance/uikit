@@ -117,21 +117,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "Discussion",
-        href: "https://t.me/titan_defi",
-      },
-      {
-        label: "Announcement",
-        href: "https://t.me/titan_defi_announcements",
-      },
-    ],
+    href:"https://t.me/coffeefinancediscuss",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/finance_titan",
+    href: "https://twitter.com/CoffeeFinance1",
   },
 ];
 
